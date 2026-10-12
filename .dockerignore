@@ -1,0 +1,7 @@
+Original path: devops-health-api/.dockerignore
+Note: this PDF displays the file's text. It is not a runnable replacement for the original .py, .sql, .yml, or configuration file.
+.git
+.venv
+__pycache__
+.pytest_cache
+*.pyc
