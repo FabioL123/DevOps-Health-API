@@ -1,0 +1,4 @@
+Original path: devops-health-api/requirements-dev.txt
+Note: this PDF displays the file's text. It is not a runnable replacement for the original .py, .sql, .yml, or configuration file.
+-r requirements.txt
+pytest>=8.0,<9.0
